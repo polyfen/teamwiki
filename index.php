@@ -23,7 +23,6 @@
           <h1 class="title-2">Team Wiki</h1>
           <h2 class="caption"><br><br>The Polyfen Group LLC<br><br>
           Est. 2018</h2>
-            
         </section>
         <hr>
         <!-- INCLUDE WELCOME.PHP start -->
