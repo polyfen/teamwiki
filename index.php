@@ -2,7 +2,7 @@
 <html lang="en">
 
   <head>
-    <title>Team Wiki | The Polyfen Group</title>
+    <title>Team Wiki | Polyfen</title>
 
     <!-- INCLUDE HEAD.PHP start -->
     <?php include 'includes/head.php';?>
