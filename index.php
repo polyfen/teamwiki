@@ -14,7 +14,11 @@
     <nav>
         <h2 class="caption">Table of Contents</h2>
         <ul>
-            <li>1. X</li>
+            <li>1. Welcome</li>
+            <li>2. Getting paid</li>
+            <li>3. Time off</li>
+            <li>4. Communication channels</li>
+            <li>5. Work methodology</li>
         </ul>
     </nav>
     <main>

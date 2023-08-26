@@ -4,7 +4,7 @@
 <h3 class="heading-2">2.2. How will I get paid?</h3>
 <p>Once you’ve started working in our team you must send an email to accounting@polyfen.com with the corresponding details of one of the payment methods we approve.</p>
 <p>Approved payment methods:</p>
-<ul class="hanging-list">
+<ul class="hanging-list arrow-bullet">
     <li><a href="https://wise.com" target="_blank">Wise</a></li>
     <li><a href="https://revolut.com" target="_blank">Revolut</a></li>
     <li>Bank Account Transfer (selected countries)</li>

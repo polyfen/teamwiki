@@ -7,7 +7,7 @@
 <li><strong>General announcements</strong> concerning the team</li>
 <li><strong>Progress review</strong> of the work done since previous Tuesday</li>
 <li><strong>Retrospective discussion:</strong></li>
-<ul>
+<ul class="arrow-bullet">
     <li>What did we do well?</li>
     <li>What did we do wrong?</li>
     <li>How do we do more things well and fewer things wrong?</li>
