@@ -61,7 +61,7 @@
         <!-- INCLUDE COMMUNICATION-CHANNELS.PHP end -->
         <hr>
         <!-- INCLUDE COMMUNICATION-CHANNELS.PHP start -->
-        <?php include 'content/drive-files.php';?>
+        <?php include 'content/google-drive.php';?>
         <!-- INCLUDE COMMUNICATION-CHANNELS.PHP end -->
         <hr>
         <!-- INCLUDE COMMUNICATION-CHANNELS.PHP start -->
