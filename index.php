@@ -15,11 +15,11 @@
         <h2 class="caption">Table of Contents</h2>
         <ul>
             <li>1. Welcome</li>
-            <li>2. Getting paid</li>
-            <li>3. Time off</li>
-            <li>4. Communication channels</li>
-            <li>5. Work methodology</li>
-            <li>6. Tech stack</li>
+            <li>2. Tech stack</li>
+            <li>3. Getting paid</li>
+            <li>4. Time off</li>
+            <li>5. Communication channels</li>
+            <li>6. Work methodology</li>
         </ul>
     </nav>
     <main>
@@ -33,6 +33,10 @@
         <!-- INCLUDE WELCOME.PHP start -->
         <?php include 'content/welcome.php';?>
         <!-- INCLUDE WELCOME.PHP end -->
+        <hr>
+        <!-- INCLUDE TECH-STACK.PHP start -->
+        <?php include 'content/tech-stack.php';?>
+        <!-- INCLUDE TECH-STACK.PHP end -->
         <hr>
         <!-- INCLUDE GETTING-PAID.PHP start -->
         <?php include 'content/getting-paid.php';?>
@@ -49,10 +53,6 @@
         <!-- INCLUDE WORK-METHODOLOGY.PHP start -->
         <?php include 'content/work-methodology.php';?>
         <!-- INCLUDE WORK-METHODOLOGY.PHP end -->
-        <hr>
-        <!-- INCLUDE TECH-STACK.PHP start -->
-        <?php include 'content/tech-stack.php';?>
-        <!-- INCLUDE TECH-STACK.PHP end -->
         <hr>
         <!-- INCLUDE TIME-TRACKING.PHP start -->
         <?php include 'content/task-management.php';?>
