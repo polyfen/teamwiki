@@ -14,12 +14,14 @@
     <nav>
         <h2 class="caption">Table of Contents</h2>
         <ul>
-            <li>1. Welcome</li>
-            <li>2. Tech stack</li>
-            <li>3. Getting paid</li>
-            <li>4. Time off</li>
-            <li>5. Communication channels</li>
-            <li>6. Work methodology</li>
+            <li><a href="#welcome" class="caption">1. Welcome</a></li>
+            <li><a href="#tech-stack" class="caption">2. Tech stack</a></li>
+            <li><a href="#sprints" class="caption">3. Sprints</a></li>
+            <li><a href="#communication-channels" class="caption">4. Slack channels</a></li>
+            <li><a href="#communication-channels" class="caption">5. Asana tasks</a></li>
+            <li><a href="#communication-channels" class="caption">6. Google Drive</a></li>
+            <li><a href="#getting-paid" class="caption">7. Getting paid</a></li>
+            <li><a href="#time-off" class="caption">8. Time off</a></li>
         </ul>
     </nav>
     <main>
@@ -38,6 +40,26 @@
         <?php include 'content/tech-stack.php';?>
         <!-- INCLUDE TECH-STACK.PHP end -->
         <hr>
+        <!-- INCLUDE SPRINTS.PHP start -->
+        <?php include 'content/sprints.php';?>
+        <!-- INCLUDE SPRINTS.PHP end -->
+        <hr>
+        <!-- INCLUDE COMMUNICATION-CHANNELS.PHP start -->
+        <?php include 'content/slack-channels.php';?>
+        <!-- INCLUDE COMMUNICATION-CHANNELS.PHP end -->
+        <hr>
+        <!-- INCLUDE COMMUNICATION-CHANNELS.PHP start -->
+        <?php include 'content/asana-tasks.php';?>
+        <!-- INCLUDE COMMUNICATION-CHANNELS.PHP end -->
+        <hr>
+        <!-- INCLUDE COMMUNICATION-CHANNELS.PHP start -->
+        <?php include 'content/clockify-tracking.php';?>
+        <!-- INCLUDE COMMUNICATION-CHANNELS.PHP end -->
+        <hr>
+        <!-- INCLUDE COMMUNICATION-CHANNELS.PHP start -->
+        <?php include 'content/drive-files.php';?>
+        <!-- INCLUDE COMMUNICATION-CHANNELS.PHP end -->
+        <hr>
         <!-- INCLUDE GETTING-PAID.PHP start -->
         <?php include 'content/getting-paid.php';?>
         <!-- INCLUDE GETTING-PAID.PHP end -->
@@ -45,26 +67,6 @@
         <!-- INCLUDE VACATIONS-HOLIDAYS-AND-DAYS-OFF.PHP start -->
         <?php include 'content/time-off.php';?>
         <!-- INCLUDE VACATIONS-HOLIDAYS-AND-DAYS-OFF.PHP end -->
-        <hr>
-        <!-- INCLUDE COMMUNICATION-CHANNELS.PHP start -->
-        <?php include 'content/communication-channels.php';?>
-        <!-- INCLUDE COMMUNICATION-CHANNELS.PHP end -->
-        <hr>
-        <!-- INCLUDE WORK-METHODOLOGY.PHP start -->
-        <?php include 'content/work-methodology.php';?>
-        <!-- INCLUDE WORK-METHODOLOGY.PHP end -->
-        <hr>
-        <!-- INCLUDE TIME-TRACKING.PHP start -->
-        <?php include 'content/task-management.php';?>
-        <!-- INCLUDE TIME-TRACKING.PHP end -->
-        <hr>
-        <!-- INCLUDE TIME-TRACKING.PHP start -->
-        <?php include 'content/time-tracking.php';?>
-        <!-- INCLUDE TIME-TRACKING.PHP end -->
-        <hr>
-        <!-- INCLUDE DEVELOPMENT-WORKFLOW.PHP start -->
-        <?php include 'content/development-workflow.php';?>
-        <!-- INCLUDE SCRUM-METHODOLOGY.PHP end -->
         <hr>
     </main>
   </body>

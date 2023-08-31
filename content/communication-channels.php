@@ -1,1 +1,0 @@
-<h2 class="heading-1">4. Communication Channels</h2>
