@@ -1,3 +1,4 @@
+<section id="getting-paid">
 <h2 class="heading-1">10. Getting Paid</h2>
 <h3 class="heading-2">10.1. When will I get paid?</h3>
 <p>Our internal deadline to process payments is 10th day of every month. However, it is possible for some payments related to specific projects to be processed every 14 days.</p>
@@ -10,3 +11,4 @@
     <li>Bank Account Transfer (selected countries)</li>
 </ul>
 <p>For any requests about changing your payment method please contact accounting@polyfen.com.</p>
+</section>

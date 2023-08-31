@@ -1,3 +1,4 @@
+<section id="slack-channels">
 <h2 class="heading-1">4. Slack Channels</h2>
 <p>Our House Rules:</p>
 <ul class="hanging-list arrow-bullet">
@@ -14,3 +15,4 @@
 <h4 class="heading-3">4.2.1. #frontend-education</h4>
 <h4 class="heading-3">4.2.2. #design-education</h4>
 <h4 class="heading-3">4.2.3. #ux-education</h4>
+</section>

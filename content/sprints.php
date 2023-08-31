@@ -1,3 +1,4 @@
+<section id="sprints">
 <h2 class="heading-1">3. Sprints</h2>
 <p>We organize our tasks in time <strong>cycles of 1 week</sprint> called a “Sprint”.</p>
 
@@ -14,3 +15,4 @@
 </ul>
 <li><strong>Assigning tasks</strong> that have to be completed by next Tuesday</li>
 </ol>
+</section>
