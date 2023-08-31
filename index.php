@@ -21,8 +21,10 @@
             <li><a href="#communication-channels" class="caption">5. Asana tasks</a></li>
             <li><a href="#communication-channels" class="caption">6. Clockify tracking</a></li>
             <li><a href="#communication-channels" class="caption">7. Google Drive</a></li>
-            <li><a href="#getting-paid" class="caption">8. Getting paid</a></li>
-            <li><a href="#time-off" class="caption">9. Time off</a></li>
+            <li><a href="#communication-channels" class="caption">8. Figma projects</a></li>
+            <li><a href="#communication-channels" class="caption">9. Github repos</a></li>
+            <li><a href="#getting-paid" class="caption">10. Getting paid</a></li>
+            <li><a href="#time-off" class="caption">11. Time off</a></li>
         </ul>
     </nav>
     <main>
@@ -59,6 +61,14 @@
         <hr>
         <!-- INCLUDE COMMUNICATION-CHANNELS.PHP start -->
         <?php include 'content/drive-files.php';?>
+        <!-- INCLUDE COMMUNICATION-CHANNELS.PHP end -->
+        <hr>
+        <!-- INCLUDE COMMUNICATION-CHANNELS.PHP start -->
+        <?php include 'content/figma-projects.php';?>
+        <!-- INCLUDE COMMUNICATION-CHANNELS.PHP end -->
+        <hr>
+        <!-- INCLUDE COMMUNICATION-CHANNELS.PHP start -->
+        <?php include 'content/github-repos.php';?>
         <!-- INCLUDE COMMUNICATION-CHANNELS.PHP end -->
         <hr>
         <!-- INCLUDE GETTING-PAID.PHP start -->
