@@ -18,12 +18,12 @@
             <li><a href="#welcome" class="caption">1. Welcome</a></li>
             <li><a href="#tech-stack" class="caption">2. Tech stack</a></li>
             <li><a href="#sprints" class="caption">3. Sprints</a></li>
-            <li><a href="#communication-channels" class="caption">4. Slack channels</a></li>
-            <li><a href="#communication-channels" class="caption">5. Asana tasks</a></li>
-            <li><a href="#communication-channels" class="caption">6. Clockify tracking</a></li>
-            <li><a href="#communication-channels" class="caption">7. Google Drive</a></li>
-            <li><a href="#communication-channels" class="caption">8. Figma projects</a></li>
-            <li><a href="#communication-channels" class="caption">9. Github repos</a></li>
+            <li><a href="#slack-channels" class="caption">4. Slack channels</a></li>
+            <li><a href="#asana-tasks" class="caption">5. Asana tasks</a></li>
+            <li><a href="#clockify-tracking" class="caption">6. Clockify tracking</a></li>
+            <li><a href="#google-drive" class="caption">7. Google Drive</a></li>
+            <li><a href="#figma-projects" class="caption">8. Figma projects</a></li>
+            <li><a href="#github-repos" class="caption">9. Github repos</a></li>
             <li><a href="#getting-paid" class="caption">10. Getting paid</a></li>
             <li><a href="#time-off" class="caption">11. Time off</a></li>
         </ul>
