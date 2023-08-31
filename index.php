@@ -19,6 +19,7 @@
             <li>3. Time off</li>
             <li>4. Communication channels</li>
             <li>5. Work methodology</li>
+            <li>6. Tech stack</li>
         </ul>
     </nav>
     <main>
@@ -48,6 +49,14 @@
         <!-- INCLUDE WORK-METHODOLOGY.PHP start -->
         <?php include 'content/work-methodology.php';?>
         <!-- INCLUDE WORK-METHODOLOGY.PHP end -->
+        <hr>
+        <!-- INCLUDE TECH-STACK.PHP start -->
+        <?php include 'content/tech-stack.php';?>
+        <!-- INCLUDE TECH-STACK.PHP end -->
+        <hr>
+        <!-- INCLUDE TIME-TRACKING.PHP start -->
+        <?php include 'content/task-management.php';?>
+        <!-- INCLUDE TIME-TRACKING.PHP end -->
         <hr>
         <!-- INCLUDE TIME-TRACKING.PHP start -->
         <?php include 'content/time-tracking.php';?>
