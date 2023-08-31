@@ -19,9 +19,10 @@
             <li><a href="#sprints" class="caption">3. Sprints</a></li>
             <li><a href="#communication-channels" class="caption">4. Slack channels</a></li>
             <li><a href="#communication-channels" class="caption">5. Asana tasks</a></li>
-            <li><a href="#communication-channels" class="caption">6. Google Drive</a></li>
-            <li><a href="#getting-paid" class="caption">7. Getting paid</a></li>
-            <li><a href="#time-off" class="caption">8. Time off</a></li>
+            <li><a href="#communication-channels" class="caption">6. Clockify tracking</a></li>
+            <li><a href="#communication-channels" class="caption">7. Google Drive</a></li>
+            <li><a href="#getting-paid" class="caption">8. Getting paid</a></li>
+            <li><a href="#time-off" class="caption">9. Time off</a></li>
         </ul>
     </nav>
     <main>
