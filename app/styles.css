@@ -95,3 +95,8 @@ ul.spaced-list li {
 ul.arrow-bullet {
     list-style-image: url(../../imgs/arrow-right.svg);
 }
+
+main div#cover {
+    display: flex;
+    gap: 40px;
+}
