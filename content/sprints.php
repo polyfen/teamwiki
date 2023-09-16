@@ -8,11 +8,11 @@
 <li><strong>General announcements</strong> concerning the team</li>
 <li><strong>Progress review</strong> of the work done since previous Tuesday</li>
 <li><strong>Retrospective discussion:</strong></li>
-<ul class="arrow-bullet">
+<ol class="hanging-list">
     <li>What did we do well?</li>
     <li>What did we do wrong?</li>
     <li>How do we do more things well and fewer things wrong?</li>
-</ul>
+</ol>
 <li><strong>Assigning tasks</strong> that have to be completed by next Tuesday</li>
 </ol>
 </section>
