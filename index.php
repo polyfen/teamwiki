@@ -21,11 +21,8 @@
             <li><a href="#naming-conventions" class="caption">4. Naming Conventions</a></li>
             <li><a href="#projects-and-tasks" class="caption">5. Projects &amp; Tasks</a></li>
             <li><a href="#time-tracking" class="caption">6. Time tracking</a></li>
-            <li><a href="#google-drive" class="caption">6. Google Drive</a></li>
-            <li><a href="#figma-projects" class="caption">7. Figma projects</a></li>
-            <li><a href="#github-repos" class="caption">8. Github repos</a></li>
-            <li><a href="#getting-paid" class="caption">9. Getting paid</a></li>
-            <li><a href="#time-off" class="caption">10. Time off</a></li>
+            <li><a href="#getting-paid" class="caption">7. Getting paid</a></li>
+            <li><a href="#time-off" class="caption">8. Time off</a></li>
         </ul>
     </nav>
     <main>
@@ -63,21 +60,9 @@
         <?php include 'content/projects-and-tasks.php';?>
         <!-- INCLUDE PROJECTS-AND-TASKS.PHP end -->
         <hr>
-        <!-- INCLUDE COMMUNICATION-CHANNELS.PHP start -->
-        <?php include 'content/clockify-tracking.php';?>
-        <!-- INCLUDE COMMUNICATION-CHANNELS.PHP end -->
-        <hr>
-        <!-- INCLUDE COMMUNICATION-CHANNELS.PHP start -->
-        <?php include 'content/google-drive.php';?>
-        <!-- INCLUDE COMMUNICATION-CHANNELS.PHP end -->
-        <hr>
-        <!-- INCLUDE COMMUNICATION-CHANNELS.PHP start -->
-        <?php include 'content/figma-projects.php';?>
-        <!-- INCLUDE COMMUNICATION-CHANNELS.PHP end -->
-        <hr>
-        <!-- INCLUDE COMMUNICATION-CHANNELS.PHP start -->
-        <?php include 'content/github-repos.php';?>
-        <!-- INCLUDE COMMUNICATION-CHANNELS.PHP end -->
+        <!-- INCLUDE TIME-TRACKING.PHP start -->
+        <?php include 'content/time-tracking.php';?>
+        <!-- INCLUDE TIME-TRACKING.PHP end -->
         <hr>
         <!-- INCLUDE GETTING-PAID.PHP start -->
         <?php include 'content/getting-paid.php';?>
