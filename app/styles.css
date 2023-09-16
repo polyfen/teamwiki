@@ -91,6 +91,12 @@ nav ul ul {
     margin-left: 20px;
 }
 
+nav ul li a {
+    font-family: BiotifMedium;
+    text-transform: none !important;
+    letter-spacing: 0.2px !important;
+}
+
 
 ul.spaced-list li {
     margin-bottom: 1rem;

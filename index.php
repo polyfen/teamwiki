@@ -14,7 +14,7 @@
     <nav>
         <h2 class="caption">Table of Contents</h2>
         <ul>
-            <li><a href="#" class="caption">Team Wiki</a></li>
+            <li><a href="#" class="caption" style="text-transform: uppercase !important;">Team Wiki</a></li>
             <li><a href="#tech-stack" class="caption">1. Tech stack</a></li>
             <li><a href="#sprints" class="caption">2. Sprints</a></li>
             <li><a href="#team-messaging" class="caption">3. Team Messaging</a></li>
