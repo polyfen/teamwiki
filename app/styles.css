@@ -34,6 +34,10 @@ p, p a, li, li a, p strong, p span, li strong {
     font-family: 'freight-text-pro', serif;
 }
 
+p strong, li strong {
+    font-family: 'FreightTextProSemibold', serif;
+}
+
 a {
     color: #1f8df0;
     position: relative;
