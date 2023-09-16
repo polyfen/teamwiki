@@ -1,6 +1,6 @@
 <section id="projects-and-tasks">
     <h2 class="heading-1">5. Projects &amp; Tasks</h2>
-    <p>Asana projects follow the convention [Client Code] › <strong>[Project Type]</strong> where the latter could be:</p>
+    <p>Asana projects follow the convention <a href="#client-code">[Client Code]</a> › <a href="#project-type">[Project Type]</a> where the latter could be:</p>
     
     <p>There are 5 stages in the workflow of any task.</p>
     <h3 class="heading-2">5.1. Backlog</h3>

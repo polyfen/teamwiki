@@ -59,9 +59,9 @@
         <?php include 'content/naming-conventions.php';?>
         <!-- INCLUDE NAMING-CONVENTIONS.PHP end -->
         <hr>
-        <!-- INCLUDE COMMUNICATION-CHANNELS.PHP start -->
-        <?php include 'content/tasks-and-projects.php';?>
-        <!-- INCLUDE COMMUNICATION-CHANNELS.PHP end -->
+        <!-- INCLUDE PROJECTS-AND-TASKS.PHP start -->
+        <?php include 'content/projects-and-tasks.php';?>
+        <!-- INCLUDE PROJECTS-AND-TASKS.PHP end -->
         <hr>
         <!-- INCLUDE COMMUNICATION-CHANNELS.PHP start -->
         <?php include 'content/clockify-tracking.php';?>
