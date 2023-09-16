@@ -11,8 +11,11 @@
         <li><strong>Time-bound</strong></li>
     </ul>
     <h3 class="heading-2">5.2. To Do</h3>
-    <p></p>
+    <p>All tasks that belong to the present <a href="#sprints">Sprint</a>.</p>
     <h3 class="heading-2">5.3. In Progress</h3>
-    <h3 class="heading-2">5.4. Review</h3>
+    <p>One you start work on a specific task, the first thing you must do is set its status as "In Progress" to let the rest of the team know what's being worked on.</p>
+    <h3 class="heading-2">5.4. For Review</h3>
+    <p>After you consider your task is complete, then change the task status to "For Review" and assign the task to your reporter (who would most likely be Boris).</p>
     <h3 class="heading-2">5.5. Complete</h3>
+    <p>After your task is reviewed by a Reporter and approved it will be moved to the "Complete" column.</p>
 </section>
