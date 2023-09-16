@@ -1,5 +1,5 @@
-<section id="slack-channels">
-<h2 class="heading-1">3. Slack Channels</h2>
+<section id="team-messaging">
+<h2 class="heading-1">3. Team Messaging</h2>
 <h3 class="heading-2">3.1. House Rules</h3>
 <ol class="hanging-list">
     <li>Be respectful and considerate.</li>

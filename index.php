@@ -17,9 +17,10 @@
             <li><a href="#" class="caption">Team Wiki</a></li>
             <li><a href="#tech-stack" class="caption">1. Tech stack</a></li>
             <li><a href="#sprints" class="caption">2. Sprints</a></li>
-            <li><a href="#slack-channels" class="caption">3. Slack channels</a></li>
-            <li><a href="#asana-tasks" class="caption">4. Asana tasks</a></li>
-            <li><a href="#clockify-tracking" class="caption">5. Clockify tracking</a></li>
+            <li><a href="#team-messaging" class="caption">3. Team Messaging</a></li>
+            <li><a href="#naming-conventions" class="caption">4. Naming Conventions</a></li>
+            <li><a href="#projects-and-tasks" class="caption">5. Projects &amp; Tasks</a></li>
+            <li><a href="#time-tracking" class="caption">6. Time tracking</a></li>
             <li><a href="#google-drive" class="caption">6. Google Drive</a></li>
             <li><a href="#figma-projects" class="caption">7. Figma projects</a></li>
             <li><a href="#github-repos" class="caption">8. Github repos</a></li>
@@ -50,16 +51,16 @@
         <?php include 'content/sprints.php';?>
         <!-- INCLUDE SPRINTS.PHP end -->
         <hr>
-        <!-- INCLUDE COMMUNICATION-CHANNELS.PHP start -->
-        <?php include 'content/slack-channels.php';?>
-        <!-- INCLUDE COMMUNICATION-CHANNELS.PHP end -->
+        <!-- INCLUDE TEAM-MESSAGING.PHP start -->
+        <?php include 'content/team-messaging.php';?>
+        <!-- INCLUDE TEAM-MESSAGING.PHP end -->
+        <hr>
+        <!-- INCLUDE NAMING-CONVENTIONS.PHP start -->
+        <?php include 'content/naming-conventions.php';?>
+        <!-- INCLUDE NAMING-CONVENTIONS.PHP end -->
         <hr>
         <!-- INCLUDE COMMUNICATION-CHANNELS.PHP start -->
-        <?php include 'content/client-codes.php';?>
-        <!-- INCLUDE COMMUNICATION-CHANNELS.PHP end -->
-        <hr>
-        <!-- INCLUDE COMMUNICATION-CHANNELS.PHP start -->
-        <?php include 'content/asana-tasks.php';?>
+        <?php include 'content/tasks-and-projects.php';?>
         <!-- INCLUDE COMMUNICATION-CHANNELS.PHP end -->
         <hr>
         <!-- INCLUDE COMMUNICATION-CHANNELS.PHP start -->

@@ -1,13 +1,7 @@
-<section id="asana-tasks">
-    <h2 class="heading-1">5. Asana Projects &amp; Tasks</h2>
+<section id="projects-and-tasks">
+    <h2 class="heading-1">5. Projects &amp; Tasks</h2>
     <p>Asana projects follow the convention [Client Code] › <strong>[Project Type]</strong> where the latter could be:</p>
-    <ul class="hanging-list arrow-bullet">
-        <li><strong>Brand ID</strong></li>
-        <li><strong>Web</strong></li>
-        <li><strong>App</strong></li>
-        <li><strong>Marketing</strong></li>
-        <li><strong>Administrative</strong></li>
-    </ul>
+    
     <p>There are 5 stages in the workflow of any task.</p>
     <h3 class="heading-2">5.1. Backlog</h3>
     <p>We identify a requirement and add it to Asana as a task following SMART task practices:</p>
