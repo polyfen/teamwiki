@@ -1,5 +1,5 @@
 <section id="tech-stack">
-<h2 class="heading-1">2. Tech Stack</h2>
+<h2 class="heading-1">1. Tech Stack</h2>
 <ul class="hanging-list arrow-bullet">
     <li><a href="https://polyfen.slack.com" target="_blank">Slack</a></li>
     <li><a href="https://app.asana.com" target="_blank">Asana</a></li>
