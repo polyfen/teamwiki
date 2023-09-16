@@ -55,6 +55,10 @@
         <!-- INCLUDE COMMUNICATION-CHANNELS.PHP end -->
         <hr>
         <!-- INCLUDE COMMUNICATION-CHANNELS.PHP start -->
+        <?php include 'content/client-codes.php';?>
+        <!-- INCLUDE COMMUNICATION-CHANNELS.PHP end -->
+        <hr>
+        <!-- INCLUDE COMMUNICATION-CHANNELS.PHP start -->
         <?php include 'content/asana-tasks.php';?>
         <!-- INCLUDE COMMUNICATION-CHANNELS.PHP end -->
         <hr>
