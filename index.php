@@ -27,7 +27,7 @@
         <li><a href="#getting-paid" class="caption">10. Getting paid</a></li>
         <li><a href="#time-off" class="caption">11. Time off</a></li>
       </ul>
-      <button aria-label="Open/Close navbar" tabindex="0" id="opener">
+      <button aria-label="Open/Close navbar" id="opener">
         <img src="imgs/icons/hamburger_icon.svg" alt="" height="30px" width="auto">
       </button>
     </nav>
