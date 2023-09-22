@@ -6,8 +6,10 @@
 
 <!-- CSS General -->
 <link rel="stylesheet" href="https://polynucleus.com/polynucleus.css" type="text/css">
-<link rel="stylesheet" href="app/styles.css" type="text/css">
+<link rel="stylesheet" href="app/docs-styles.css" type="text/css">
 
+<!-- scripts -->
+<script defer src="app/scripts.js"></script>
 <!-- FONTS -->
 <!--
 /**
