@@ -38,7 +38,7 @@
     <li>#design</li>
     <li>#marketing</li>
     <li>#engineering</li>
-    <li>#advisory-board</li>
+    <li>#board</li>
 </ul>
 
 </section>
