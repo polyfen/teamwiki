@@ -51,7 +51,7 @@
           </div>
         </section>
         <hr>
-        <!-- INCLUDE TECH-STACK.PHP start -->
+        <!-- INCLUDE TECH-STACK.PHP start  -->
         <?php include 'content/tech-stack.php';?>
         <!-- INCLUDE TECH-STACK.PHP end -->
         <hr>
