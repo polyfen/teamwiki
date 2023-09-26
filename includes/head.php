@@ -6,10 +6,10 @@
 
 <!-- CSS General -->
 <link rel="stylesheet" href="https://polynucleus.com/polynucleus.css" type="text/css">
-<link rel="stylesheet" href="app/docs-styles.css" type="text/css">
+<link rel="stylesheet" href="https://polynucleus.com/theme/docs-theme.css" type="text/css">
 
 <!-- scripts -->
-<script defer src="app/scripts.js"></script>
+<script defer src="https://polynucleus.com/theme/docs-mobile-nav.js"></script>
 <!-- FONTS -->
 <!--
 /**
