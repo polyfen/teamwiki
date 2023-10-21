@@ -10,6 +10,7 @@
 
 <!-- scripts -->
 <script defer src="https://polynucleus.com/theme/docs-mobile-nav.js"></script>
+<script defer src="app/active.js"></script>
 <!-- FONTS -->
 <!--
 /**
