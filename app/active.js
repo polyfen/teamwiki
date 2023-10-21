@@ -2,7 +2,7 @@ console.log("ja sam active.js");
 
 
 // Obtiene los elementos del menú de navegación
-const menuItems = document.querySelectorAll('.navbar ul li a');
+const menuItems = document.querySelectorAll('#navbar ul li a');
 // Crea una instancia de IntersectionObserver
 const observer = new IntersectionObserver((entries) => {
 	entries.forEach((entry) => {
