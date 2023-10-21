@@ -13,7 +13,7 @@
     </ul>
     <h3 class="heading-2" id="project-types">4.2. Project Types</h3>
     <ul class="hanging-list arrow-bullet">
-        <li><strong>Brand ID</strong></li>
+        <li><strong>Branding</strong></li>
         <li><strong>Web</strong></li>
         <li><strong>App</strong></li>
         <li><strong>Marketing</strong></li>
