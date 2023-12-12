@@ -20,11 +20,13 @@ closer.addEventListener('click', () => {
 })
 
 if (window.innerWidth <= 768) {
-navItems.addEventListener('click', () => {
-	nav.classList.remove('open-nav')
-	closer.classList.remove('open-nav')
-	opener.classList.remove('close-nav')
-})
+    navItems.forEach(item => {
+        item.addEventListener('click', () => {
+            nav.classList.remove('open-nav');
+            closer.classList.remove('open-nav');
+            opener.classList.remove('close-nav');
+        });
+    });
 }
 
 
