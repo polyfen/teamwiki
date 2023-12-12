@@ -6,10 +6,15 @@
 
 <!-- CSS General -->
 <link rel="stylesheet" href="https://polynucleus.com/polynucleus.css" type="text/css">
-<link rel="stylesheet" href="https://polynucleus.com/theme/docs-theme.css" type="text/css">
-
+<!-- <link rel="stylesheet" href="https://polynucleus.com/theme/docs-theme.css" type="text/css"> -->
+<link rel="stylesheet" href="app/style.css" type="text/css">
 <!-- scripts -->
+<<<<<<< Updated upstream
 <script defer src="https://polynucleus.com/theme/docs-mobile-nav.js"></script>
+=======
+<!-- <script defer src="https://polynucleus.com/theme/docs-mobile-nav.js"></script> -->
+<script defer src="app/active.js"></script>
+>>>>>>> Stashed changes
 <!-- FONTS -->
 <!--
 /**
