@@ -1,4 +1,4 @@
-console.log("ja sam docs-mobile-nav.js");
+console.log("Soy el docs-mobile-nav.js");
 
 /* Mobile nav */
 
@@ -29,31 +29,30 @@ if (window.innerWidth <= 768) {
     });
 }
 
+/* hamburge menu scroll obdserver */
+document.addEventListener("DOMContentLoaded", function() {
+    let hamburger = document.querySelector(".hamburger");
+    let close = document.querySelector(".close");
 
+    window.addEventListener("scroll", function() {
+        let scroll = window.scrollY || document.documentElement.scrollTop;
 
-
-
-function toggle() {
-    if (window.innerWidth <= 768) {
-        // Verificar si la clase 'open-nav' está presente
-        if (navbar.classList.contains('open-nav')) {
-            // Si sí, quitar 'open-nav' y agregar 'close-nav'
-            navbar.classList.remove('open-nav');
-            navbar.classList.add('close-nav');
-        } else {
-            // Si no, quitar 'close-nav' y agregar 'open-nav'
-            navbar.classList.remove('close-nav');
-            navbar.classList.add('open-nav');
+        if (window.innerWidth < 426) {
+            if (scroll >= 40) {
+                console.log("scroll");
+                hamburger.style.top = "12px";
+                close.style.top = "12px";
+            } else {
+                hamburger.style.top = "47px";
+                close.style.top = "47px";
+            }
         }
-    }
-}
+    });
+});
 
 
 
-
-
-
-/* Mobile nav Scroll observer */
+/* Mobile nav Scroll observer for nav-title active */
 const menuItems = document.querySelectorAll('#navbar ul li a');
 const observer = new IntersectionObserver((entries) => {
 	entries.forEach((entry) => {

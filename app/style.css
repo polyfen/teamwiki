@@ -94,6 +94,7 @@ body nav {
 }
 
 .hamburger {
+    z-index: 700;
     position: fixed;
     padding: 0;
     right: 12px;
@@ -206,7 +207,17 @@ nav ul li a {
 
 
 /* media queries */
-@media (max-width: 768px){
+
+@media (max-width: 426px) {      
+    .plfn-logo {
+        align-self: flex-start;
+        width: 77%;
+    }
+    .hamburger {
+        top: 47px;
+    }
+}
+@media (max-widh: 768px){
     body nav {
         padding-bottom: 100vh;
     }
