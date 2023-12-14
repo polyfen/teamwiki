@@ -43,10 +43,10 @@
           <path fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m16 16l-4-4m0 0L8 8m4 4l4-4m-4 4l-4 4"/>
         </svg>
     </button>
-    
+
     <main>
         <section class="cover">
-          <img src="imgs/polyfen-logo.svg" alt="Polyfen" height="80px" width="auto">
+          <img class="plfn-logo" src="imgs/polyfen-logo.svg" alt="Polyfen Logo" height="80px" width="auto">
           <img src="imgs/videogame-illustratrion.svg" alt="Videogame Illustration" height="200px" width="auto">
           <h1 class="title-2">Team Wiki</h1>
           <h2 class="caption">The Polyfen Group LLC<br>Est. 2018</h2>
