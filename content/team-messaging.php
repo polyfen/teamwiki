@@ -28,7 +28,7 @@
     <li>#poly-atlas</li>
     <li>#poly-cookies</li>
     <li>#poly-qwerty</li>
-    <li>#poly-nucleus</li>
+    <li>#poly-kit</li>
 </ul>
 
 <p style="margin-bottom: 0;"><strong>Divisions:</strong></p>
